@@ -177,3 +177,5 @@ pyrightconfig.json
 
 # 내가 만든 가상환경
 venv._Python
+
+data/
